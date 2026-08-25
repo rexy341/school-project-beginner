@@ -1,0 +1,196 @@
+11,UT-1,Physics-01,20
+11,UT-1,Mathematics-01,20
+11,UT-1,Computer Science-01,20
+11,UT-1,Chemistry-01,20
+11,UT-1,Physical Education-01,20
+11,UT-1,Economics-01,20
+11,UT-1,Mass Media-01,20
+11,UT-1,English-01,20
+11,UT-1,Biology-01,20
+11,UT-1,Buisness Studies-01,20
+11,UT-1,Applied Maths-01,20
+11,UT-1,History-01,20
+11,UT-1,Accountancy-01,20
+11,UT-1,Psychology-01,20
+11,UT-2,Physics-01,20
+11,UT-2,Mathematics-01,20
+11,UT-2,Computer Science-01,20
+11,UT-2,Chemistry-01,20
+11,UT-2,Physical Education-01,20
+11,UT-2,Economics-01,20
+11,UT-2,Mass Media-01,20
+11,UT-2,English-01,20
+11,UT-2,Biology-01,20
+11,UT-2,Buisness Studies-01,20
+11,UT-2,Applied Maths-01,20
+11,UT-2,History-01,20
+11,UT-2,Accountancy-01,20
+11,UT-2,Psychology-01,20
+11,Half-Yearly,Physics-01,70
+11,Half-Yearly,Physics-02,30
+11,Half-Yearly,Mathematics-01,70
+11,Half-Yearly,Mathematics-02,30
+11,Half-Yearly,Computer Science-01,70
+11,Half-Yearly,Computer Science-02,30
+11,Half-Yearly,Chemistry-01,70
+11,Half-Yearly,Chemistry-02,30
+11,Half-Yearly,Physical Education-01,70
+11,Half-Yearly,Physical Education-02,30
+11,Half-Yearly,Economics-01,80
+11,Half-Yearly,Economics-02,20
+11,Half-Yearly,Mass Media-01,80
+11,Half-Yearly,Mass Media-02,20
+11,Half-Yearly,English-01,80
+11,Half-Yearly,English-02,20
+11,Half-Yearly,Biology-01,70
+11,Half-Yearly,Biology-02,30
+11,Half-Yearly,Buisness Studies-01,80
+11,Half-Yearly,Buisness Studies-02,20
+11,Half-Yearly,Applied Maths-01,80
+11,Half-Yearly,Applied Maths-02,20
+11,Half-Yearly,History-01,80
+11,Half-Yearly,History-02,20
+11,Half-Yearly,Accountancy-01,80
+11,Half-Yearly,Accountancy-02,20
+11,Half-Yearly,Psychology-01,80
+11,Half-Yearly,Psychology-02,20
+11,UT-3,Physics-01,20
+11,UT-3,Mathematics-01,20
+11,UT-3,Computer Science-01,20
+11,UT-3,Chemistry-01,20
+11,UT-3,Physical Education-01,20
+11,UT-3,Economics-01,20
+11,UT-3,Mass Media-01,20
+11,UT-3,English-01,20
+11,UT-3,Biology-01,20
+11,UT-3,Buisness Studies-01,20
+11,UT-3,Applied Maths-01,20
+11,UT-3,History-01,20
+11,UT-3,Accountancy-01,20
+11,UT-3,Psychology-01,20
+11,Annual Exam,Physics-01,70
+11,Annual Exam,Physics-02,30
+11,Annual Exam,Mathematics-01,70
+11,Annual Exam,Mathematics-02,30
+11,Annual Exam,Computer Science-01,70
+11,Annual Exam,Computer Science-02,30
+11,Annual Exam,Chemistry-01,70
+11,Annual Exam,Chemistry-02,30
+11,Annual Exam,Physical Education-01,70
+11,Annual Exam,Physical Education-02,30
+11,Annual Exam,Economics-01,80
+11,Annual Exam,Economics-02,20
+11,Annual Exam,Mass Media-01,80
+11,Annual Exam,Mass Media-02,20
+11,Annual Exam,English-01,80
+11,Annual Exam,English-02,20
+11,Annual Exam,Biology-01,70
+11,Annual Exam,Biology-02,30
+11,Annual Exam,Buisness Studies-01,80
+11,Annual Exam,Buisness Studies-02,20
+11,Annual Exam,Applied Maths-01,80
+11,Annual Exam,Applied Maths-02,20
+11,Annual Exam,History-01,80
+11,Annual Exam,History-02,20
+11,Annual Exam,Accountancy-01,80
+11,Annual Exam,Accountancy-02,20
+11,Annual Exam,Psychology-01,80
+11,Annual Exam,Psychology-02,20
+12,UT-1,Physics-01,40
+12,UT-1,Mathematics-01,40
+12,UT-1,Computer Science-01,40
+12,UT-1,Chemistry-01,40
+12,UT-1,Physical Education-01,40
+12,UT-1,Economics-01,40
+12,UT-1,Mass Media-01,40
+12,UT-1,English-01,40
+12,UT-1,Biology-01,40
+12,UT-1,Buisness Studies-01,40
+12,UT-1,Applied Maths-01,40
+12,UT-1,History-01,40
+12,UT-1,Accountancy-01,40
+12,UT-1,Psychology-01,40
+12,UT-2,Physics-01,40
+12,UT-2,Mathematics-01,40
+12,UT-2,Computer Science-01,40
+12,UT-2,Chemistry-01,40
+12,UT-2,Physical Education-01,40
+12,UT-2,Economics-01,40
+12,UT-2,Mass Media-01,40
+12,UT-2,English-01,40
+12,UT-2,Biology-01,40
+12,UT-2,Buisness Studies-01,40
+12,UT-2,Applied Maths-01,40
+12,UT-2,History-01,40
+12,UT-2,Accountancy-01,40
+12,UT-2,Psychology-01,40
+12,Half-Yearly,Physics-01,70
+12,Half-Yearly,Physics-02,30
+12,Half-Yearly,Mathematics-01,70
+12,Half-Yearly,Mathematics-02,30
+12,Half-Yearly,Computer Science-01,70
+12,Half-Yearly,Computer Science-02,30
+12,Half-Yearly,Chemistry-01,70
+12,Half-Yearly,Chemistry-02,30
+12,Half-Yearly,Physical Education-01,70
+12,Half-Yearly,Physical Education-02,30
+12,Half-Yearly,Economics-01,80
+12,Half-Yearly,Economics-02,20
+12,Half-Yearly,Mass Media-01,80
+12,Half-Yearly,Mass Media-02,20
+12,Half-Yearly,English-01,80
+12,Half-Yearly,English-02,20
+12,Half-Yearly,Biology-01,70
+12,Half-Yearly,Biology-02,30
+12,Half-Yearly,Buisness Studies-01,80
+12,Half-Yearly,Buisness Studies-02,20
+12,Half-Yearly,Applied Maths-01,80
+12,Half-Yearly,Applied Maths-02,20
+12,Half-Yearly,History-01,80
+12,Half-Yearly,History-02,20
+12,Half-Yearly,Accountancy-01,80
+12,Half-Yearly,Accountancy-02,20
+12,Half-Yearly,Psychology-01,80
+12,Half-Yearly,Psychology-02,20
+12,Preboard-1,Physics-01,70
+12,Preboard-1,Mathematics-01,30
+12,Preboard-1,Computer Science-01,70
+12,Preboard-1,Chemistry-01,30
+12,Preboard-1,Physical Education-01,70
+12,Preboard-1,Economics-01,30
+12,Preboard-1,Mass Media-01,70
+12,Preboard-1,English-01,30
+12,Preboard-1,Biology-01,70
+12,Preboard-1,Buisness Studies-01,30
+12,Preboard-1,Applied Maths-01,80
+12,Preboard-1,History-01,20
+12,Preboard-1,Accountancy-01,80
+12,Preboard-1,Psychology-01,20
+12,Preboard-2,Physics-01,80
+12,Preboard-2,Physics-02,20
+12,Preboard-2,Mathematics-01,70
+12,Preboard-2,Mathematics-02,30
+12,Preboard-2,Computer Science-01,80
+12,Preboard-2,Computer Science-02,20
+12,Preboard-2,Chemistry-01,80
+12,Preboard-2,Chemistry-02,20
+12,Preboard-2,Physical Education-01,80
+12,Preboard-2,Physical Education-02,20
+12,Preboard-2,Economics-01,80
+12,Preboard-2,Economics-02,20
+12,Preboard-2,Mass Media-01,80
+12,Preboard-2,Mass Media-02,20
+12,Preboard-2,English-01,80
+12,Preboard-2,English-02,20
+12,Preboard-2,Biology-01,70
+12,Preboard-2,Biology-02,30
+12,Preboard-2,Buisness Studies-01,80
+12,Preboard-2,Buisness Studies-02,20
+12,Preboard-2,Applied Maths-01,80
+12,Preboard-2,Applied Maths-02,20
+12,Preboard-2,History-01,80
+12,Preboard-2,History-02,20
+12,Preboard-2,Accountancy-01,80
+12,Preboard-2,Accountancy-02,20
+12,Preboard-2,Psychology-01,80
+12,Preboard-2,Psychology-02,20
