@@ -14,13 +14,13 @@ sheet and so on. The software is designed
 to automate, streamline and integrate
 everyday functions of the school.
 
-![My Code Output](1.png)
-![My Code Output](2.png)
-![My Code Output](3.png)
-![My Code Output](4.png)
-![My Code Output](5.png)
-![My Code Output](6.png)
-![My Code Output](7.png)
-![My Code Output](8.png)
-![My Code Output](9.png)
-![My Code Output](10.png)
+![My Code Output](1.PNG)
+![My Code Output](2.PNG)
+![My Code Output](3.PNG)
+![My Code Output](4.PNG)
+![My Code Output](5.PNG)
+![My Code Output](6.PNG)
+![My Code Output](7.PNG)
+![My Code Output](8.PNG)
+![My Code Output](9.PNG)
+![My Code Output](10.PNG)
