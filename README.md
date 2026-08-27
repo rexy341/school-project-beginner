@@ -14,6 +14,8 @@ sheet and so on. The software is designed
 to automate, streamline and integrate
 everyday functions of the school.
 
+As of now, it is built based on procedure oriented programming instead of OOP concepts. However, I am learning OOP concepts to further improve the project.
+
 ![My Code Output](1.PNG)
 ![My Code Output](2.PNG)
 ![My Code Output](3.PNG)
